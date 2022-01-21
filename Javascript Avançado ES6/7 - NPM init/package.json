@@ -1,0 +1,27 @@
+{
+  "name": "npm_class",
+  "version": "1.0.0",
+  "description": "Aula para estudar NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-edioj/curso-programador-fullstack-js-pro.git"
+  },
+  "keywords": [
+    "NPM",
+    "class",
+    "study"
+  ],
+  "author": "Edio Junio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-edioj/curso-programador-fullstack-js-pro/issues"
+  },
+  "homepage": "https://github.com/dev-edioj/curso-programador-fullstack-js-pro#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

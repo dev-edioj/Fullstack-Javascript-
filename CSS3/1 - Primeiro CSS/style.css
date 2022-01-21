@@ -1,0 +1,18 @@
+h1 {
+    color: purple;
+    font-size: 50px;
+    border: 1px solid white;
+}
+li {
+    color: green;
+}
+body {
+    background-color: #aaffff;
+    background-image: url(https://aracajumagazine.com.br/uploads/paragraphs/image/c1c563599f83df0d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.moom {
+    color: orangered;
+}

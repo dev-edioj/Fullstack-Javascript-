@@ -1,0 +1,4 @@
+/*Seletor de descedencia*/
+a[href='#'] {
+    color: yellow;
+}

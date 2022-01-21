@@ -1,0 +1,26 @@
+body {
+    background: #2c3e50;
+}
+h1 {
+    color: white;
+}
+h2 {
+    background: yellow;
+    border: 2px solid black;
+}
+p {
+    font-size: 30px;
+    color: yellow;
+}
+#dayOfWeek {
+    color: white
+}
+#monday {
+    color:white;
+}
+ul li {
+    color: white;
+}
+li:nth-of-type(2) {
+    color: red;
+}
