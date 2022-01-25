@@ -1,13 +1,12 @@
 
 import React, {Fragment} from 'react';
-import Planets from './components/planets'
-import Planet from './components/planet';
+//import Planets from './components/planets';
+import Rotas from './routes';
 
 function App() {
   return (
    <Fragment>
-      <Planets/>
-      <Planet/>
+      <Rotas/>
    </Fragment>
 
   );
